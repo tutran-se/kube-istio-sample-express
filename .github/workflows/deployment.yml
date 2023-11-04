@@ -7,7 +7,7 @@ on:
 
 env:
     IMAGE_NAME: tutran0806/sample
-    IMAGE_TAG: express-lastest
+    IMAGE_TAG: express-latest
 
 jobs:
     build-and-deploy:
